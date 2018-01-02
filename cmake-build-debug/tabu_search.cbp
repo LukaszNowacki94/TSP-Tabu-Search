@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tabu_search"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lukasz/Studia/PEA Projekt2/tabu_search/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/lukasz/Studia/PEA Projekt2/tabu_search/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lukasz/Studia/PEA Projekt2/tabu_search/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tabu_search">
+				<Option output="/home/lukasz/Studia/PEA Projekt2/tabu_search/cmake-build-debug/tabu_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lukasz/Studia/PEA Projekt2/tabu_search/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 tabu_search"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tabu_search/fast">
+				<Option output="/home/lukasz/Studia/PEA Projekt2/tabu_search/cmake-build-debug/tabu_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lukasz/Studia/PEA Projekt2/tabu_search/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 tabu_search/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lukasz/Studia/PEA\ Projekt2/tabu_search/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/FileLoader/FileReader.cpp">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/FileLoader/FileReader.h">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/Menu/Menu.cpp">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/Menu/Menu.h">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/TabuList/TabuList.cpp">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/TabuList/TabuList.h">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/TestData/TestData.cpp">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/TestData/TestData.h">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/TspTabuSearch/TspTabuSearch.cpp">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/TspTabuSearch/TspTabuSearch.h">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/main.cpp">
+			<Option target="tabu_search"/>
+		</Unit>
+		<Unit filename="/home/lukasz/Studia/PEA Projekt2/tabu_search/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

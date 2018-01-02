@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/FileLoader/FileReader.cpp
+FileReader.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/FileLoader/FileReader.h
+fstream
+-
+iostream
+-
+vector
+-
+tuple
+-
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/FileLoader/FileReader.h
+fstream
+-
+iostream
+-
+vector
+-
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/Menu/Menu.cpp
+tuple
+-
+Menu.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/Menu/Menu.h
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/Menu/Menu.h
+../FileLoader/FileReader.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/FileLoader/FileReader.h
+../TspTabuSearch/TspTabuSearch.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TspTabuSearch/TspTabuSearch.h
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TabuList/TabuList.cpp
+cstdio
+-
+TabuList.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TabuList/TabuList.h
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TabuList/TabuList.h
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TestData/TestData.cpp
+TestData.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TestData/TestData.h
+chrono
+-
+tuple
+-
+TestData.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TestData/TestData.h
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TestData/TestData.h
+chrono
+-
+../TspTabuSearch/TspTabuSearch.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TspTabuSearch/TspTabuSearch.h
+../FileLoader/FileReader.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/FileLoader/FileReader.h
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TspTabuSearch/TspTabuSearch.cpp
+cstdio
+-
+cstdlib
+-
+climits
+-
+TspTabuSearch.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TspTabuSearch/TspTabuSearch.h
+algorithm
+-
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TspTabuSearch/TspTabuSearch.h
+vector
+-
+../TabuList/TabuList.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TabuList/TabuList.h
+
+/home/lukasz/Studia/PEA Projekt2/tabu_search/main.cpp
+iostream
+-
+tuple
+-
+FileLoader/FileReader.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/FileLoader/FileReader.h
+TspTabuSearch/TspTabuSearch.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TspTabuSearch/TspTabuSearch.h
+TestData/TestData.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/TestData/TestData.h
+Menu/Menu.h
+/home/lukasz/Studia/PEA Projekt2/tabu_search/Menu/Menu.h
+
